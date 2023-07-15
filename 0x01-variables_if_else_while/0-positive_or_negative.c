@@ -2,9 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
-*main - entry point
-*Description:'checking if n positive or negative'
-*return : always 0
+* main - Entry point
+*
+* Description: 'the program's description'
+*
+* Return: Always 0 (Success)
 */
 int main(void)
 {
